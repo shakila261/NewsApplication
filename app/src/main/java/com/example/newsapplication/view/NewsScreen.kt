@@ -84,7 +84,7 @@ fun NewsScreen(
                     "TODAYS NEWS",
                     fontWeight = FontWeight.Bold,
                     fontSize = 32.sp,
-                    color = Color.Gray,
+                    color = Color.Cyan,
                     textAlign = TextAlign.Center,
                     modifier = Modifier.fillMaxWidth()
 
